@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is hosted at the link - https://stackoverflow-clone-pradip.netlify.app/
+This project is hosted at the link - https://stack-overflow-clone-pradip.netlify.app/
 
 ## Available Scripts
 
