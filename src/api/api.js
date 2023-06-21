@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API=axios.create({baseURL : 'https://stackoverflowclone-backend.up.railway.app/'})
+const API=axios.create({baseURL : 'https://stack-overflow-clone-backend-production-dc91.up.railway.app/'})
 
 export const signup=(authdata)=> API.post('/user/signup',authdata);
 export const login=(authdata)=> API.post('/user/login',authdata);
